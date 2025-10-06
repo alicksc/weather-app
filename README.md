@@ -57,14 +57,16 @@ A simple, clean desktop weather application built using HTML, CSS, JavaScript, a
 
 ## 📁 File Structure
 
-weather-app/            <br>
-├── main.js             <br>
-├── index.html          <br>
-├── script.js           <br>
-├── style.css           <br>
-├── config.js           <br>
-├── package.json        <br>
-└── README.md           <br>
+```bash
+weather-app/            
+├── main.js             
+├── index.html          
+├── script.js           
+├── style.css           
+├── config.js           
+├── package.json        
+└── README.md           
+```
 
 ---
 
